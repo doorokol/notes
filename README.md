@@ -1,4 +1,5 @@
 # Конспекты на любой повод
 
--   ### [Математика](math.md)
--   ### skjdfbvhsdf
+-   ### [Программирование](programming/content.md)
+-   ### [Математика](math/content.md)
+-   ### [Информатика](informations/content.md)
