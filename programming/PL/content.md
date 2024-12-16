@@ -1,5 +1,5 @@
 # Языки программирование и их фишки
 
--   ### [python](programming/PL/python/content.md)
--   ### [js](programming/PL/js/content.md)
--   ### [go](programming/PL/go/content.md)
+-   ### [python](python/content.md)
+-   ### [js](js/content.md)
+-   ### [go](go/content.md)
